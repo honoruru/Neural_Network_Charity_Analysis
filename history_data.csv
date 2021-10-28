@@ -1,0 +1,5 @@
+hn1,hn2,act1,act2,act3,model_loss,model_accuracy,epochs,app_typ bin,CLASS_bin
+80,30,relu,relu,sigmoid,0.560406506,0.72559768,50,500,1000
+80,30,relu,relu,sigmoid,0.560330272,0.727463543,100,500,1000
+100,50,relu,relu,sigmoid,0.567526042,0.724081635,100,500,1000
+80,30,relu,relu,sigmoid,0.558836699,0.7252478,100,50,100

@@ -1,0 +1,4 @@
+hn1,hn2,hn3,act1,act2,act3,act4,model_loss,model_accuracy,epochs
+100,50,50,relu,relu,relu,sigmoid,0.568680584,0.725481033,50
+100,50,50,relu,relu,relu,sigmoid,0.576114714,0.726413965,100
+100,100,100,relu,relu,relu,sigmoid,0.601408184,0.725364447,100
