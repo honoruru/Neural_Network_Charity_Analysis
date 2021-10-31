@@ -1,17 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
-
-|Layer        | # Neurons   |Activation |
-|-------------|-------------|-----------|
-| Hidden 1    |     80      |ReLU       |
-| Hidden 2    |     30      |ReLU       |
-| Output      |     N/A     |Sigmoid    |
 
 
 |hn1|hn2|act1|act2|act3|model_loss|model_accuracy|epochs|app_typ bin|CLASS_bin|
