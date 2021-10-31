@@ -26,3 +26,12 @@
 |80|30|tanh|relu|sigmoid|0.561141253|0.725131214|100|500|1000
 |100|50|tanh|relu|sigmoid|0.57213223|0.724781334|100|500|1000
 
+|hn1|hn2|hn3|act1|act2|act3|act4|model_loss|model_accuracy|epochs|
+|---|---|---|---|---|---|---|---|---|---|
+|100|50|50|relu|relu|relu|sigmoid|0.568680584|0.725481033|50
+|100|50|50|relu|relu|relu|sigmoid|0.576114714|0.726413965|100
+|100|100|100|relu|relu|relu|sigmoid|0.601408184|0.725364447|100
+|80|30|30|relu|relu|relu|sigmoid|0.567723036|0.724664748|100
+|100|50|50|relu|relu|relu|sigmoid|0.600123882|0.724548101|200
+|100|50|50|tanh|relu|relu|sigmoid|0.577502072|0.7252478|100
+|100|50|50|tanh|relu|relu|relu|0.612268388|0.72326529|100
