@@ -9,6 +9,6 @@
 
 |Layer        | # Neurons   |Activation |
 |-------------|-------------|-----------|
-| Hidden 1    | 80          |ReLU       |
-| Hidden 2    | 30          |ReLU       |
-| Output      | N/A         |Sigmoid    |
+| Hidden 1    |     80      |ReLU       |
+| Hidden 2    |     30      |ReLU       |
+| Output      |     N/A     |Sigmoid    |
